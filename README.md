@@ -7,8 +7,8 @@ Folder "Data" contains datasets.
 Requirements for running the program:
 - Python 3.3 or greater
 - Jupyter-notebook
--Pandas
--Numpy
--Scikit-learn
--Matplotlib
--Seaborn
+- Pandas
+- Numpy
+- Scikit-learn
+- Matplotlib
+- Seaborn
