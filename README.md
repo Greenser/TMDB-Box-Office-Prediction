@@ -2,8 +2,8 @@
 ## Description
 This project is made for Kaggle competition called TMDB Box Office Prediction.
 
-File TMDB-Box-Office-Prediction.ipynb contains the sulution programm (kernel).  
-Folder "Data" contains datasets.
+File TMDB-Box-Office-Prediction.ipynb contains the sulution (kernel).  
+Folder "Data" contains dataset.
 
 ## Requirements
 Requirements for running the program:
