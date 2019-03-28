@@ -4,6 +4,7 @@ This project is made for Kaggle competition called TMDB Box Office Prediction.
 
 The main goal is to predict overall worldwide box office revenue from films by exploring metadata on over 7,000 past films from The Movie Database (https://www.themoviedb.org/) and building Machine Learning models.
 
+File "TMDB-Box-Office-Prediction.html" contains the sulution (for reading).  
 File "TMDB-Box-Office-Prediction.ipynb" contains the sulution (kernel).  
 Folder "Data" contains dataset.
 
